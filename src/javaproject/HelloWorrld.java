@@ -7,7 +7,7 @@ public class HelloWorrld {
 		for(int i=0;i<3;i++) {
 			System.out.println("JavaWorrld");
 		}
-		System.out.println("日本電子専門学校");
+		System.out.println("日本電子専門学校　情報システム開発科");
 	}
 
 }
